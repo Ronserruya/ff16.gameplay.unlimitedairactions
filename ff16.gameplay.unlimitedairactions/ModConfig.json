@@ -47,7 +47,7 @@
             }
         },
         "GitHubRelease": {
-            "UserName": "RonSerruya",
+            "UserName": "Ronserruya",
             "RepositoryName": "ff16.gameplay.unlimitedairactions",
             "UseReleaseTag": true,
             "AssetFileName": "Mod.zip"
